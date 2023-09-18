@@ -1,0 +1,40 @@
+body{
+    background-color: fuchsia;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.main-body{
+    border: 3px double black;
+    margin-top: 50px;
+    width: 450px;
+    height: 300px;
+   
+}
+
+#header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#header-two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.minp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
